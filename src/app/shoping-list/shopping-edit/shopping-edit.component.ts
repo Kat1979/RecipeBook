@@ -16,6 +16,7 @@ export class ShoppingEditComponent implements OnInit {
 
   ngOnInit() {
   }
+  // delete this
 
   onAddItem(){
     const ingName = this.nameInputRef.nativeElement.value;
